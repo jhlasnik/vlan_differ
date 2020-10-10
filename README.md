@@ -39,7 +39,7 @@ python3 vlan_differ.py
 #### Results
 
 ```bash
-EXP11223:vlan_differ joseph.hlasnik$ python3 vlan_differ.py 
+$ python3 vlan_differ.py 
 Below is the differences between the VLAN lists:
 3948
 3907
